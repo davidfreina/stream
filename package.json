@@ -15,9 +15,6 @@
 		"@types/node": "latest",
 		"modbus-pdu" : "^1.13.0"
 	},
-	"optionalDependencies" : {
-		"serialport" : ">=1.7.1 <7"
-	},
 	"devDependencies" : {
 		"dtslint"   : "^0.4.2",
 		"mocha"     : "^6.2.0"
